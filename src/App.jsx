@@ -1,4 +1,4 @@
-iimport { useState, useEffect, useRef } from “react”;
+import { useState, useEffect, useRef } from “react”;
 
 const exercises = [
 {
